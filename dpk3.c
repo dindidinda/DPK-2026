@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include  <stdlib.h>
 
 char c[3][3] = {{'1', '2', '3'}, {'4', '5', '6'}, {'7', '8', '9'}};
 
